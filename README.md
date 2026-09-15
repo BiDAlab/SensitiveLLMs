@@ -1,6 +1,6 @@
 <div align="center">
 
-# PBa-LLM: Privacy- and Bias-aware NLP in General and Applied to AI-based Recruitment
+# SensitiveLLMs: Privacy and Bias Control using NER applied to AI Recruitment
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
